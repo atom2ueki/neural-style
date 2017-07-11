@@ -24,7 +24,7 @@ BETA2 = 0.999
 EPSILON = 1e-08
 STYLE_SCALE = 1.0
 ITERATIONS = 1000
-VGG_PATH = '../shared/imagenet-vgg-verydeep-19.mat'
+VGG_PATH = '../node-server/shared/imagenet-vgg-verydeep-19.mat'
 POOLING = 'max'
 
 def build_parser():
